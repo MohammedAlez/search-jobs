@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Orkney';
+    src: url('/src/fonts/Orkney/orkney-bold.otf') format('opentype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Orkney';
+    src: url('/src/fonts/Orkney/orkney-medium.otf') format('opentype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Orkney';
+    src: url('/src/fonts/Orkney/orkney-light.otf') format('opentype');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Orkney';
+    src: url('/src/fonts/Orkney/orkney-regular.otf') format('opentype');
+    font-weight: 400;
+}
+
+
+/* slider.css */
+
+.rc-slider-handle,
+.rc-slider-handle-dragging {
+    background-color: #88d1ff; /* Customize the dot color */
+}

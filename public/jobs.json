@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "jobTitle":"Senior UI/UX Designer",
+            "company":"Amazon",
+            "date":"20 May,2023",
+            "imgUrl":"/maxresdefault.jpg",
+            "workLocation":"San Fransisco, CA",
+            "salaryPerHour":"250",
+            "options":["Part time", "Senior level","Distant","Project work"],
+            "backgroundColor":"#ffe1cc"
+        },
+        {
+            "jobTitle":"Junior UI/UX Designer",
+            "company":"Google",
+            "date":"4 Feb,2023",
+            "imgUrl":"/google-G-logo-hed-2017.jpg",
+            "workLocation":"California, CA",
+            "salaryPerHour":"150",
+            "options":["Full time","Junior level","Distant","Project work","Flexible shedule"],
+            "backgroundColor":"#d4f6ed"
+        },
+        {
+            "jobTitle":"Senior Motion Designer",
+            "company":"Dribbble",
+            "date":"29 Jan,2023",
+            "imgUrl":"/download (1).png",
+            "workLocation":"New Yor,NY",
+            "salaryPerHour":"260",
+            "options":["Part time","Senior level","Full day","Shift work"],
+            "backgroundColor":"#e3dbfa"
+        },
+        {
+            "jobTitle":"UX Designer",
+            "company":"Twitter",
+            "date":"11 Apr,2023",
+            "imgUrl":"/twitter-icon-square-logo-preview.png",
+            "workLocation":"California, CA",
+            "salaryPerHour":"120",
+            "options":["Full time","Middle level","Distant","Project work"],
+            "backgroundColor":"#dff3fe"
+        },
+        {
+            "jobTitle":"Graphic Designer",
+            "company":"Airbnb",
+            "date":"2 Apr,2023",
+            "imgUrl":"/download.png",
+            "workLocation":"New Yor,NY",
+            "salaryPerHour":"300",
+            "options":["Part time","Senior level"],
+            "backgroundColor":"#fbe2f4"
+        },
+        {
+            "jobTitle":"Graphic Designer",
+            "company":"Apple",
+            "date":"18 Jan,2023",
+            "imgUrl":"/Apple-logo-1.jpg",
+            "workLocation":"San Fransisco, Ca",
+            "salaryPerHour":"140",
+            "options":["Part time","Distant"],
+            "backgroundColor":"#eceff4"
+        }
+    ]
+}
